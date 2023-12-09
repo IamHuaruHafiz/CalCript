@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784277942488",
+    "project_id": "calcript-78305",
+    "storage_bucket": "calcript-78305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784277942488:android:2f9813ca4742c2b08be7ad",
+        "android_client_info": {
+          "package_name": "com.huaru.calcript"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdI07jcOhSB8P-kuHYaLwvXzpphk5aXjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
